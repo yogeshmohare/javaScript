@@ -1,0 +1,13 @@
+javascript
+1)jquery=library
+2)es6=version
+3)p5=lib
+4)nodejs=backend
+5)react=library=facebook
+6)angular=framework =google
+7)git-github=
+
+codingtrain
+dev ed
+akshay saini
+the advanced web devloper
